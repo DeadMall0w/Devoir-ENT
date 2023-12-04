@@ -6,11 +6,11 @@ Programme python qui récupère les devoirs de l'ENT et qui les mets en format m
 # Format MD
 Ce programme recupere les devoirs de l'ent des 2 prochaines semaines et compare avec les devoirs deja existant pour rajouter les nouveaux a la liste
 
-## format
-# Lundi 4 Décembre 2023
+# Exemple du format (la progression du devoir est sauvegardé ([x] ou [ ])
+### Lundi 4 Décembre 2023
 - [x] MATHS  : exercice 1 et 2
-# Mardi 5 Décembre 2023
+### Mardi 5 Décembre 2023
 - [x] MATHS : DM n°17
-# Vendredi 8 Décembre 2023
+### Vendredi 8 Décembre 2023
 - [ ] Francais : Lecture cursive Manon Lescaut
 - [ ] ANGLAIS : être pret pour l'évaluation
