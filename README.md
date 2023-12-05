@@ -26,7 +26,9 @@ Ce programme recupere les devoirs de l'ent des 2 prochaines semaines et compare 
 4. Exécutez le script Python 'main.py' quand vous voudrez mettre a jour les devoirs.
 
 # Contribution
-@DCelcraft
+@DCelcraft https://github.com/DCelcraft/test-pronote
+
+
 https://github.com/bain3/pronotepy
 
 # Licence
