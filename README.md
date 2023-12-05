@@ -17,7 +17,7 @@ Ce programme recupere les devoirs de l'ent des 2 prochaines semaines et compare 
 
 # Installation
 1. Clonez le dépôt GitHub.
-2. Installez les dépendances en utilisant pip : `pip install -r requirements.txt`
+2. Installez les dépendances en utilisant pip : `pip install -U pronotepyt`
 
 # Utilisation
 1. Modifier les variables username, password avec les identifiants pronote.
